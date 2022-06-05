@@ -1,0 +1,38 @@
+/*
+    SF Pro Display
+*/
+@font-face {
+    font-family: 'SF Pro Display';
+    font-display: swap;
+    src: url("../fonts/SF Pro Display/SFProDisplay-Regular.woff") format("woff"), url("../fonts/SF Pro Display/SFProDisplay-Regular.woff2") format("woff2"), url("../fonts/SF Pro Display/SFProDisplay-Regular.ttf") format("ttf"), url("../fonts/SF Pro Display/SFProDisplay-Regular.eot") format("eot");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SF Pro Display';
+    font-display: swap;
+    src: url("../fonts/SF Pro Display/SFProDisplay-RegularItalic.woff") format("woff"), url("../fonts/SF Pro Display/SFProDisplay-RegularItalic.woff2") format("woff2"), url("../fonts/SF Pro Display/SFProDisplay-RegularItalic.ttf") format("ttf"), url("../fonts/SF Pro Display/SFProDisplay-RegularItalic.eot") format("eot");
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'SF Pro Display';
+    font-display: swap;
+    src: url("../fonts/SF Pro Display/SFProDisplay-Light.woff") format("woff"), url("../fonts/SF Pro Display/SFProDisplay-Light.woff2") format("woff2"), url("../fonts/SF Pro Display/SFProDisplay-Light.ttf") format("ttf"), url("../fonts/SF Pro Display/SFProDisplay-Light.eot") format("eot");
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SF Pro Display';
+    font-display: swap;
+    src: url("../fonts/SF Pro Display/SFProDisplay-Medium.woff") format("woff"), url("../fonts/SF Pro Display/SFProDisplay-Medium.woff2") format("woff2"), url("../fonts/SF Pro Display/SFProDisplay-Medium.ttf") format("ttf"), url("../fonts/SF Pro Display/SFProDisplay-Medium.eot") format("eot");
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SF Pro Display';
+    font-display: swap;
+    src: url("../fonts/SF Pro Display/SFProDisplay-Bold.woff") format("woff"), url("../fonts/SF Pro Display/SFProDisplay-Bold.woff2") format("woff2"), url("../fonts/SF Pro Display/SFProDisplay-Bold.ttf") format("ttf"), url("../fonts/SF Pro Display/SFProDisplay-Bold.eot") format("eot");
+    font-weight: 700;
+    font-style: normal;
+}
